@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+svg text {
+  fill: #69736c;
+  font-family: inherit;
+  letter-spacing: inherit;
+}

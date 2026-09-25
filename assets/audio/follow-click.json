@@ -1,0 +1,11 @@
+{
+  "kind": "follow-button-click",
+  "source": "ElevenLabs text-to-sound-effects",
+  "model": "eleven_text_to_sound_v2",
+  "generationId": "XvcTXMuDJFb1nPMdvSsM",
+  "originalFile": "follow-click-original.mp3",
+  "originalSha256": "4626153a75aeefbd2aeb4cbf09ebed412254d2ca6d42e9145da2e261f5665369",
+  "selectedRangeSeconds": [0.222, 0.325],
+  "preparedFile": "../../public/audio/follow-click.wav",
+  "purpose": "One mouse click at follow-outro frame 86"
+}

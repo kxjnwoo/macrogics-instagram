@@ -1,0 +1,8 @@
+{
+  "sourcePeakDb": -11.9,
+  "gainDb": 5.9,
+  "targetPeakDb": -6,
+  "mixVolume": 0.4,
+  "expectedMixedPeakDb": -13.958800173440752,
+  "duration": 0.103016
+}

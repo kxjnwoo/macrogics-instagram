@@ -1,0 +1,41 @@
+{
+  "name": "macrogics-instagram",
+  "version": "1.0.0",
+  "description": "Macrogics API integrations, design system and follow card",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.68.0",
+    "@remotion/bundler": "^4.0.527",
+    "@remotion/cli": "4.0.527",
+    "@remotion/fonts": "^4.0.527",
+    "@remotion/media": "^4.0.527",
+    "@remotion/renderer": "^4.0.527",
+    "dotenv": "^18.0.2",
+    "fast-xml-parser": "^5.11.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.527",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.527",
+    "@types/node": "^26.6.2",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "check": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts"
+  },
+  "sideEffects": [
+    "*.css"
+  ],
+  "type": "module"
+}
